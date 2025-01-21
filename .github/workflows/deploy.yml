@@ -1,6 +1,9 @@
 name: Build and Deploy
 
 on:
+  push:
+    branches:
+      - feature/customize-and-test/from-main
   workflow_dispatch:
     inputs:
       logLevel:
