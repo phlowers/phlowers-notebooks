@@ -1,14 +1,20 @@
-# JupyterLite Demo
+# Phlowers JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+## Phlowers in your browser
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+In order to tests phlowers packages, an in-browser jupyter (aka jupyterlite) is avaible for tutorials purposes
 
-## ✨ Try it in your browser ✨
+➡️ **https://phlowers.github.io/phlowers-notebooks**
 
-➡️ **https://jupyterlite.github.io/demo**
+The notebooks are in the ./content folder, organized by theme.  
+Data can be found in the  ./data folder.
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+JupyterLite is also a way to test it on pyodide kernel, because phlowers want to be compatible with in-browser execution provided by pyodide.  
+It also avoid to load jupyter server solution as binder.  
+This Phlowers jupyterlite is a local execution: you can change settings, add your personal notebooks, and also install application.
+
+Be patient during execution, JupyterLite can be slow compared to classic jupyter. 
+
 
 ## Requirements
 
@@ -17,7 +23,7 @@ JupyterLite is being tested against modern web browsers:
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
+## Questions about JupyterLite
 
 Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
