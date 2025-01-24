@@ -3,13 +3,10 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - feature/customize-and-test/from-main
-  workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'     
-        required: true
-        default: 'warning'
+      - main
+  pull_request:
+    branches:
+      - '*'
 
 jobs:
   build:
@@ -37,7 +34,7 @@ jobs:
 
   deploy:
     needs: build
-    # if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main'
     permissions:
       pages: write
       id-token: write
