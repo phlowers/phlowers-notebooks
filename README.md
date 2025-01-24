@@ -2,19 +2,20 @@
 
 ## Phlowers in your browser
 
-In order to tests phlowers packages, an in-browser jupyter (aka jupyterlite) is avaible for tutorials purposes
+In order to tests Phlowers packages, an in-browser jupyter (aka jupyterlite) is available for tutorials purposes
 
-➡️ **https://phlowers.github.io/phlowers-notebooks**
+➡️ **https://phlowers.github.io/Phlowers-notebooks**
 
 The notebooks are in the ./content folder, organized by theme.  
 Data can be found in the  ./data folder.
 
-JupyterLite is also a way to test it on pyodide kernel, because phlowers want to be compatible with in-browser execution provided by pyodide.  
+JupyterLite is also a way to test it on pyodide kernel, because Phlowers want to be compatible with in-browser execution provided by pyodide.  
     It also avoids to add loads to a jupyter server solution as Binder.  
 This Phlowers jupyterlite is a local execution: you can change settings, add your personal notebooks, and also install application.
 
 Be patient during execution, JupyterLite can be slow compared to classic jupyter. 
 
+# About JupyterLite
 
 ## Requirements
 
