@@ -10,7 +10,7 @@ The notebooks are in the ./content folder, organized by theme.
 Data can be found in the  ./data folder.
 
 JupyterLite is also a way to test it on pyodide kernel, because phlowers want to be compatible with in-browser execution provided by pyodide.  
-It also avoid to load jupyter server solution as binder.  
+It also avoids to add loads to a jupyter server solution as Binder.  
 This Phlowers jupyterlite is a local execution: you can change settings, add your personal notebooks, and also install application.
 
 Be patient during execution, JupyterLite can be slow compared to classic jupyter. 
