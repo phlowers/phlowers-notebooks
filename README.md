@@ -1,10 +1,13 @@
+<img src="./images/phlowers_fullsize_txt_banner.svg" alt="phlowers logo" width="800" align="center" style="display: block; margin: 0 auto"/>
+
 # Phlowers JupyterLite Demo
+
 
 ## Phlowers in your browser
 
 In order to tests Phlowers packages, an in-browser jupyter (aka jupyterlite) is available for tutorials purposes
 
-➡️ **https://phlowers.github.io/Phlowers-notebooks**
+➡️ **https://phlowers.github.io/phlowers-notebooks**
 
 The notebooks are in the ./content folder, organized by theme.  
 Data can be found in the  ./data folder.
@@ -16,6 +19,10 @@ This Phlowers jupyterlite is a local execution: you can change settings, add you
 Be patient during execution, JupyterLite can be slow compared to classic jupyter. 
 
 # About JupyterLite
+
+This Jupyterlite demo plateform is provided by https://github.com/jupyterlite/demo
+
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
 ## Requirements
 
