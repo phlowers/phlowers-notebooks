@@ -25,6 +25,8 @@ jobs:
         run: |
           cp README.md content
           jupyter lite build --contents content --output-dir dist
+          cp _static/*.png dist
+          cp _static/*.ico dist/lab
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
