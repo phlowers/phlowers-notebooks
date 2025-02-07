@@ -20,7 +20,7 @@ Be patient during execution, JupyterLite can be slow compared to classic jupyter
 ## Phlowers in your computer
 
 Two ways to execute the tutorials locally:
-- download the notebooks from the jupyterlite interface
+- download the notebooks from the jupyterlite interface.
 - download the notebooks directly from this github repository. You will find them in the ./content folder.
 
 # About JupyterLite
