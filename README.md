@@ -27,11 +27,11 @@ Two ways to execute the tutorials locally:
 
 #### Mechaphlowers
 - Basics: mechaphlowers_basics.ipynb
-  1. Add a power line section and display it 
-  2. Add a cable to the section and compute some parameters
-  3. Add weather conditions span by span and compute associated loads
-  4. Plot line section with external loads
-  Issues for displaying plots ?
+  - Add a power line section and display it 
+  - Add a cable to the section and compute some parameters
+  - Add weather conditions span by span and compute associated loads
+  - Plot line section with external loads
+  - Bonus: Issues for displaying plots ?
 
 #### Jupyterlite
 
