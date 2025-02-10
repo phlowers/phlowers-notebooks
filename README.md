@@ -31,7 +31,11 @@ Two ways to execute the tutorials locally:
   2. Add a cable to the section and compute some parameters
   3. Add weather conditions span by span and compute associated loads
   4. Plot line section with external loads
-  Issues for displaying plots ? 
+  Issues for displaying plots ?
+
+#### Jupyterlite
+
+Demo notebooks for jupyterlite are available in the discover_jupyterlite folder.
 
 # About JupyterLite
 
