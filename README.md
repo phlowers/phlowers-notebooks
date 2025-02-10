@@ -23,6 +23,11 @@ Two ways to execute the tutorials locally:
 - download the notebooks from the jupyterlite interface.
 - download the notebooks directly from this github repository. You will find them in the ./content folder.
 
+### Demo notebooks
+
+- mechaphlowers_basics.ipynb
+  - 
+
 # About JupyterLite
 
 This Jupyterlite demo plateform is provided by https://github.com/jupyterlite/demo
