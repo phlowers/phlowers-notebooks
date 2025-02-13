@@ -23,6 +23,20 @@ Two ways to execute the tutorials locally:
 - download the notebooks from the jupyterlite interface.
 - download the notebooks directly from this github repository. You will find them in the ./content folder.
 
+### Demo notebooks
+
+#### Mechaphlowers
+- Basics: mechaphlowers_basics.ipynb
+  - Add a power line section and display it 
+  - Add a cable to the section and compute some parameters
+  - Add weather conditions span by span and compute associated loads
+  - Plot line section with external loads
+  - Bonus: Issues for displaying plots ?
+
+#### Jupyterlite
+
+Demo notebooks for jupyterlite are available in the discover_jupyterlite folder.
+
 # About JupyterLite
 
 This Jupyterlite demo plateform is provided by https://github.com/jupyterlite/demo
